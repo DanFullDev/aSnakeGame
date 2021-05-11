@@ -1,2 +1,2 @@
-# aSnakeGameAngular
-Just the simple snake game in Angular
+# aSnakeGame
+Just the simple snake game in React
