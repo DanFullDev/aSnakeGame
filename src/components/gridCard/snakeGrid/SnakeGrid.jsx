@@ -1,4 +1,3 @@
-import React from "react";
 import "./SnakeGrid.css";
 
 //var matrix = Array(6).fill(Array(6).fill(0));
