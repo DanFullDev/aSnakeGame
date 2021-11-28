@@ -1,5 +1,5 @@
 import React from "react";
-import "./appHeader.css";
+import "./AppHeader.css";
 
 export default function AppHeader() {
   return (

@@ -1,5 +1,5 @@
-import AppHeader from "./components/appHeader/AppHeader";
-import GridCard from "./components/gridCard/GridCard";
+import AppHeader from "./components/appHeader/AppHeader.jsx";
+import GridCard from "./components/gridCard/GridCard.jsx";
 
 function App() {
   return (
