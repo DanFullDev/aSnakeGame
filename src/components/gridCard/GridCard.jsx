@@ -1,6 +1,6 @@
 import React from "react";
 import "./GridCard.css";
-import SnakeGrid from "../snakeGrid/SnakeGrid";
+import SnakeGrid from "./components/snakeGrid/SnakeGrid";
 
 function GridCard() {
   return (
